@@ -4,6 +4,19 @@
   text-align: center;
   box-shadow: var(--shadow);
   transition: transform 0.2s linear;
+  max-width: 20vw;
+}
+/* media query  tablet and phone for project class  */
+
+@media only screen and (max-width: 1200px) {
+  .project {
+    max-width: 50vw;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .project {
+    max-width: 90vw;
+  }
 }
 
 .project:hover {
