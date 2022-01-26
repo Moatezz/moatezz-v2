@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://moatezz.com',
   title: 'JS.',
 };
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Web Apps Developer',
   description:
     'Professional full time freelancer  with full set of skills in front-end and back-end development in both Web and Mobile industries. I have a strong background in web development and have worked with many different languages and frameworks. I am a self-motivated and hard-working individual with a strong desire to learn new technologies and improve my skills. I am a team player and I am always willing to learn new things and improve my skills. I am a hard-working individual with a strong desire to learn new technologies and improve my skills. I am a team player and I am always willing to learn new things and improve my skills.',
-  resume: 'https://moatezz.com/resume.jpg',
+  resume: '/resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/moatezz',
     github: 'https://github.com/moatezz',
